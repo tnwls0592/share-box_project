@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/share-box_project/static/css/main.5833cbdc.css",
+    "main.js": "/share-box_project/static/js/main.6ba3b720.js",
+    "index.html": "/share-box_project/index.html",
+    "main.5833cbdc.css.map": "/share-box_project/static/css/main.5833cbdc.css.map",
+    "main.6ba3b720.js.map": "/share-box_project/static/js/main.6ba3b720.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5833cbdc.css",
+    "static/js/main.6ba3b720.js"
+  ]
+}
