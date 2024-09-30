@@ -1,0 +1,57 @@
+.Pick {
+  height: 93.5vh;
+  position: relative;
+  top: 0; left: 0;
+  .back {
+    height: 44px;
+    background: #fff;
+    padding: 0 24px;
+    .back_icon {
+      height: 44px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+    }
+  }
+  .tab {
+    height: 30px;
+    h1 {
+      padding: 0 24px;
+      p {
+        text-align: center;
+        padding: 30px 0;
+        font-size: 20px;
+        font-weight: 700;
+      }
+    }
+    ul {
+      padding: 0 24px;
+      display: flex;
+      li.default {
+        color: #888888;
+        width: 100px;
+        height: 30px;
+        text-align: center;
+        line-height: 30px;
+        border: 1px solid #ccc;
+        border-radius: 15px;
+        margin: 0 5px;
+        font-size: 14px;
+        box-sizing: border-box;
+      }
+      li.active {
+        box-sizing: border-box;
+        font-size: 14px;
+        width: 100px;
+        height: 30px;
+        text-align: center;
+        line-height: 30px;
+        border: 1px solid #F7786B;
+        background: #F7786B;
+        color: #fff;
+        border-radius: 15px;
+        margin: 0 5px;
+      }
+    }
+  }
+}

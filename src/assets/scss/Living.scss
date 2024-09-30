@@ -1,0 +1,103 @@
+.Living {
+  height: 93.5vh;
+  .back {
+    height: 44px;
+    background: #fff;
+    padding: 0 24px;
+    .back_icon {
+      height: 44px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+    }
+  }
+  .tab {
+    width: 35px;
+    justify-content: space-between;
+    display: flex;
+    align-items: center;
+    margin: 0 auto;
+    .tab01 {
+      width: 10px;
+      height: 10px;
+      background: #F7786B;
+      border-radius: 15px;
+    }
+    .tab02 {
+      width: 10px;
+      height: 10px;
+      background: #ccc;
+      border-radius: 15px;
+    }
+  }
+  .select {
+    display: flex;
+    flex-direction: column;
+    .select_inner {
+      padding: 0 24px;
+      h1 {
+        font-size: 20px;
+        font-weight: 700;
+        text-align: center;
+        flex-wrap: wrap;
+        padding: 30px 0;
+      }
+      .home {
+        display: flex;
+        justify-content: space-between;
+        ul {
+          li {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            border-radius: 10px;
+            margin-bottom: 18px;
+            width: 145px;
+            height: 100px;
+            border: 1px solid #ccc;
+            box-shadow: 2px 2px 2px #eeeeee;
+            transition: .5s;
+            box-sizing: border-box;
+            div {
+              margin-top: 17px;
+              display: flex;
+              flex-direction: column;
+              align-items: center;
+              width: 145px;
+              height: 100px;
+              line-height: 2;
+            }
+            &:hover {
+              border: 1px solid #F7786B;
+            }
+          }
+        }
+      }
+    }
+    .btn {
+      position: fixed;
+      bottom: 50px; left: 0;
+      z-index: 1;
+      width: 100%;
+      background: #fff;
+      height: 44px;
+      padding: 10px 0;
+      .btn_inner {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        padding: 0 24px;
+        h1 {
+          text-align: center;
+          width: 145px;
+          height: 44px;
+          background: #F7786B;
+          color: #fff;
+          font-weight: 700;
+          line-height: 44px;
+          border-radius: 10px;
+        }
+      }
+    }
+  }
+}

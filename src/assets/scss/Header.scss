@@ -1,0 +1,20 @@
+.Header {
+  box-shadow: 2px 2px 2px #ddd;
+  height: 44px;
+  ul.Header_Icons {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 44px;
+    .Header_left {
+      margin-left: 24px;
+    }
+    .Header_right {
+      margin-right: 24px;
+      display: flex;
+      li {
+        padding-left: 5px;
+      }
+    }
+  }
+}

@@ -1,0 +1,67 @@
+.Start {
+  background: #F7786B;
+  height: 93.5vh;
+  .Background {
+    position: fixed;
+    bottom: 0;
+    background: #fff;
+    height: 80vh; width: 100%;
+    border-radius: 30px 30px 0 0;
+    .text {
+      width: 100%;
+      display: flex;
+      flex-direction: column;
+      justify-content: space-between;
+      .text_inner {
+        padding: 50px;
+        h1 {
+          font-size: 20px;
+          font-weight: bold;
+          line-height: 1.4;
+          span {
+            font-size: 26px;
+          }
+        }
+        .Btn {
+          margin-top: 100px;
+          display: flex;
+          flex-direction: column;
+          .Start_Btn {
+            width: 100%;
+            background: #F7786B;
+            color: #fff;
+            height: 50px;
+            text-align: center;
+            line-height: 50px;
+            border-radius: 5px;
+            font-weight: bold;
+            transition: .5s;
+            box-sizing: border-box;
+            &:hover {
+              background: none;
+              border: 1px solid #F7786B;
+              color: #F7786B;
+            }
+          }
+          .Login_Btn {
+            margin-top: 10px;
+            background: #F7786B;
+            color: #fff;
+            height: 50px;
+            text-align: center;
+            line-height: 50px;
+            border-radius: 5px;
+            font-weight: bold;
+            transition: .5s;
+            box-sizing: border-box;
+            &:hover {
+              background: none;
+              border: 1px solid #F7786B;
+              color: #F7786B;
+            }
+          }
+        }
+      }
+    }
+  }
+}
