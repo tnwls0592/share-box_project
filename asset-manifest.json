@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/share-box_project/static/css/main.3d439cc3.css",
-    "main.js": "/share-box_project/static/js/main.07e2cab8.js",
+    "main.js": "/share-box_project/static/js/main.fa4f2bb4.js",
     "index.html": "/share-box_project/index.html",
     "main.3d439cc3.css.map": "/share-box_project/static/css/main.3d439cc3.css.map",
-    "main.07e2cab8.js.map": "/share-box_project/static/js/main.07e2cab8.js.map"
+    "main.fa4f2bb4.js.map": "/share-box_project/static/js/main.fa4f2bb4.js.map"
   },
   "entrypoints": [
     "static/css/main.3d439cc3.css",
-    "static/js/main.07e2cab8.js"
+    "static/js/main.fa4f2bb4.js"
   ]
 }
