@@ -1,13 +1,23 @@
 {
   "files": {
-    "main.css": "/share-box_project/static/css/main.367fc1b7.css",
-    "main.js": "/share-box_project/static/js/main.ffa9327b.js",
+    "main.css": "/share-box_project/static/css/main.981916f3.css",
+    "main.js": "/share-box_project/static/js/main.0e3ae2ce.js",
+    "static/media/camera.jpg": "/share-box_project/static/media/camera.f280ced58c8c97f493f0.jpg",
+    "static/media/cap.jpg": "/share-box_project/static/media/cap.263fd4e7f086fd0e0ee2.jpg",
+    "static/media/paper.jpg": "/share-box_project/static/media/paper.00595a914b36454d3c4a.jpg",
+    "static/media/lotion.jpg": "/share-box_project/static/media/lotion.8877ca7f3936a4669231.jpg",
+    "static/media/clothes.jpg": "/share-box_project/static/media/clothes.b3c4597bc6d874be1cf3.jpg",
+    "static/media/towel.jpg": "/share-box_project/static/media/towel.93255dca7b7a864e133c.jpg",
+    "static/media/comb.jpg": "/share-box_project/static/media/comb.22a296c70bc066de50f0.jpg",
+    "static/media/coco.jpg": "/share-box_project/static/media/coco.c24a5a16561dffc38aaa.jpg",
+    "static/media/cup.jpg": "/share-box_project/static/media/cup.4766271ccf22cd287b0a.jpg",
+    "static/media/book.jpg": "/share-box_project/static/media/book.70a77f8e343cad1733f3.jpg",
     "index.html": "/share-box_project/index.html",
-    "main.367fc1b7.css.map": "/share-box_project/static/css/main.367fc1b7.css.map",
-    "main.ffa9327b.js.map": "/share-box_project/static/js/main.ffa9327b.js.map"
+    "main.981916f3.css.map": "/share-box_project/static/css/main.981916f3.css.map",
+    "main.0e3ae2ce.js.map": "/share-box_project/static/js/main.0e3ae2ce.js.map"
   },
   "entrypoints": [
-    "static/css/main.367fc1b7.css",
-    "static/js/main.ffa9327b.js"
+    "static/css/main.981916f3.css",
+    "static/js/main.0e3ae2ce.js"
   ]
 }
