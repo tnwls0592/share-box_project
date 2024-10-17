@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/share-box_project/static/css/main.981916f3.css",
-    "main.js": "/share-box_project/static/js/main.0e3ae2ce.js",
+    "main.css": "/share-box_project/static/css/main.e77cd476.css",
+    "main.js": "/share-box_project/static/js/main.93e161f3.js",
     "static/media/camera.jpg": "/share-box_project/static/media/camera.f280ced58c8c97f493f0.jpg",
     "static/media/cap.jpg": "/share-box_project/static/media/cap.263fd4e7f086fd0e0ee2.jpg",
     "static/media/paper.jpg": "/share-box_project/static/media/paper.00595a914b36454d3c4a.jpg",
@@ -12,12 +12,14 @@
     "static/media/coco.jpg": "/share-box_project/static/media/coco.c24a5a16561dffc38aaa.jpg",
     "static/media/cup.jpg": "/share-box_project/static/media/cup.4766271ccf22cd287b0a.jpg",
     "static/media/book.jpg": "/share-box_project/static/media/book.70a77f8e343cad1733f3.jpg",
+    "static/media/couple.jpg": "/share-box_project/static/media/couple.2491ab67cc6b2b3dbe70.jpg",
+    "static/media/flower.jpg": "/share-box_project/static/media/flower.842e568ceccad1a669ff.jpg",
     "index.html": "/share-box_project/index.html",
-    "main.981916f3.css.map": "/share-box_project/static/css/main.981916f3.css.map",
-    "main.0e3ae2ce.js.map": "/share-box_project/static/js/main.0e3ae2ce.js.map"
+    "main.e77cd476.css.map": "/share-box_project/static/css/main.e77cd476.css.map",
+    "main.93e161f3.js.map": "/share-box_project/static/js/main.93e161f3.js.map"
   },
   "entrypoints": [
-    "static/css/main.981916f3.css",
-    "static/js/main.0e3ae2ce.js"
+    "static/css/main.e77cd476.css",
+    "static/js/main.93e161f3.js"
   ]
 }
